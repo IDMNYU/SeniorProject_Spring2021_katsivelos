@@ -70,7 +70,7 @@ Tuesday November 3 - Last day to Withdraw
 | :--- | :--- | :--- |
 
 
-| 14 | [Mon Dec 7](week14_detail.md) | **LAST Class Fall 2020** |
+| 14 | [Mon Dec 7](week14_detail.md) | **LAST Class Spring 2021** |
 | :--- | :--- | :--- |
 
 

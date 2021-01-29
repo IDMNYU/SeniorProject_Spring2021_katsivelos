@@ -9,7 +9,7 @@
 ## Class
 
 * Group critique: deliverables
-  * [resources and milestones](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
-  * [research and design](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
+  * [resources and milestones](Fix Link to Project Plan)
+  * [research and design](Fix Link to Project Plan)
 * Check-in with your [accountability partner](../assignments/accountability_partner.md).
 

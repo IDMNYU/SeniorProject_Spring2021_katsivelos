@@ -8,7 +8,7 @@
 
 ## Class
 
-**LAST DAY OF SPRING 2020 CLASSES**
+**LAST DAY OF SPRING 2021 CLASSES**
 
 * Course Evaluation
 * Class discussion of reading

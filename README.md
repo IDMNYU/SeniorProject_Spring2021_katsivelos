@@ -1,7 +1,7 @@
 ---
 description: >-
   Nick Katsivelos' section of Senior Project in Digital Media, Integrated
-  Digital Media, NYU Tandon School of Engineering Fall 2020.
+  Digital Media, NYU Tandon School of Engineering Spring 2021.
 ---
 
 # Syllabus
@@ -18,7 +18,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | Nick Katsivelos | **Term & Year** | Fall 2020 |
+| **Name** | Nick Katsivelos | **Term & Year** | Spring 2021 |
 | **Email** | nick.katsivelos@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 201 3938 | **Meeting Time** | 2-3:50 pm |
 | **Office** | 370 Jay St. Room 346 | **Class Location** | 370 Jay St. Room 325A |
@@ -26,7 +26,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 **Credit Hrs** \| 3 \|
 
-**Course Website:** [https://nick-katsivelos.gitbook.io/senior-project-fall2020-katsivelos/](https://nick-katsivelos.gitbook.io/senior-project-fall2020-katsivelos/)  
+**Course Website:** [https://nick-katsivelos.gitbook.io/senior-projectSpring2021-katsivelos/]Fix Link To GitBook
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](https://idmseniorproj-euc3987.slack.com/archives/C018QSXKVKK)  
@@ -189,8 +189,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
   * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/SeniorProject_Fall2020_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md)
-  * 15% [Project Development](https://github.com/IDMNYU/SeniorProject_Fall2020_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md)
+  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/SeniorProject_Spring2021_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md) fix Link
+  * 15% [Project Development](https://github.com/IDMNYU/SeniorProject_Spring2021_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md)  fix Link
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables/)   
   * 05% [End of Semester Process PDF](end_of_semester_deliverables/pdf_or_book.md)
   * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](end_of_semester_deliverables/pdf_or_book.md)

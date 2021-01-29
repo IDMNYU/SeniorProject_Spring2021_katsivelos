@@ -8,7 +8,7 @@ Upload all drafts including the final version to a folder labeled _end of semest
 
 ### First and Second Drafts
 
-* Please name your file as lastname\_senior\_sp20\_draft\#\_date.pdf \(i.e. katsivelos\_senior\_sp20\_draft1\_2020apr15.pdf and katsivelos\_senior\_sp20\_draft2\_2020may08.pdf\)
+* Please name your file as lastname\_senior\_sp20\_draft\#\_date.pdf \(i.e. katsivelos\_senior\_sp21\_draft1\_2021apr15.pdf and katsivelos\_senior\_sp20\_draft2\_2021may08.pdf\)
 
 ### Final Version
 
@@ -23,7 +23,7 @@ PDF Cover:
 * Your first and last name \(if team, both names\)
 * The Name of Your Project
 * Senior Project in Digital Media
-* Spring 2020
+* Spring 2021
 * IDM NYU
 * URL to your process website
 

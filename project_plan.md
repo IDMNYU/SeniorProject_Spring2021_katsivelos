@@ -10,7 +10,7 @@ This project plan will be constantly iterated over the course of the semester. I
 
 Please remember that you and a classmate can work as a team. Only one presentation and proposal is to be submitted per team.
 
-* Please name your file as lastname\_senior\_Fall20\_projectplandraft\#\_date.pdf \(i.e. katsivelos\_senior\_sp20\_projectplan1\_2016jan15.pdf\). If a team, put both of your last names \(i.e. katsivelos\_and\_fitzgerald\)
+* Please name your file as lastname\_senior\Spring21\_projectplandraft\#\_date.pdf \(i.e. katsivelos\_senior\_sp21\_projectplan1\_2021jan15.pdf\). If a team, put both of your last names \(i.e. katsivelos\_and\_fitzgerald\)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 * Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables/).
 
@@ -25,8 +25,8 @@ Please remember that you and a classmate can work as a team. Only one presentati
           <li>Project Title</li>
           <li>Senior Project in Digital Media</li>
           <li>IDM / NYU</li>
-          <li>Spring 2020</li>
-          <li>Duff</li>
+          <li>Spring 2021</li>
+          <li>Katsivelos</li>
         </ul>
       </th>
     </tr>
