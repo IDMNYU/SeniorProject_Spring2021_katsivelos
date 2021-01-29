@@ -26,10 +26,10 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 **Credit Hrs** \| 3 \|
 
-**Course Website:** [https://nick-katsivelos.gitbook.io/senior-projectSpring2021-katsivelos/]Fix Link To GitBook
+**Course Website:** [https://nick-katsivelos.gitbook.io/seniorproject-sp2021-katsivelos/]
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication:** [http://idmspsp20.slack.com](https://idmseniorproj-euc3987.slack.com/archives/C018QSXKVKK)  
+**Course Communication:** [https://idmspsp2021.slack.com/]
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
 This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. 
@@ -189,8 +189,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
   * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/SeniorProject_Spring2021_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md) fix Link
-  * 15% [Project Development](https://github.com/IDMNYU/SeniorProject_Spring2021_Katsivelos/tree/01430d7a0390b03f05e62656932a6f35bf00ebc4/project_plan/README.md)  fix Link
+  * 15% [Project Plan and its revisions](project_plan/README.md) fix Link
+  * 15% [Project Development](project_plan/README.md)  fix Link
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables/)   
   * 05% [End of Semester Process PDF](end_of_semester_deliverables/pdf_or_book.md)
   * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](end_of_semester_deliverables/pdf_or_book.md)
