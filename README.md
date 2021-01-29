@@ -190,8 +190,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
   * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md)
   * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](project_plan/README.md) fix Link
-  * 15% [Project Development](project_plan/README.md)  fix Link
+  * 15% [Project Plan and its revisions](project_plan/README.md) 
+  * 15% [Project Development](project_plan/README.md)  
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables/)   
   * 05% [End of Semester Process PDF](end_of_semester_deliverables/pdf_or_book.md)
   * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](end_of_semester_deliverables/pdf_or_book.md)
