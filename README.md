@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 description: >-
   Nick Katsivelos' section of Senior Project in Digital Media, Integrated
@@ -541,4 +540,3 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### [Schedule](schedule/)
 
->>>>>>> c48954cd651e8704edb7cd76baca26e5f23ecf43
