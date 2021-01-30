@@ -13,7 +13,7 @@ _Illustration by Jolby from gettoworkbook_
 | wk | date | class |
 | :--- | :--- | :--- |
 
-|0 | [Jan25-31](../pre-work/readme.md) | Prework Assignments |
+|0 | [Jan25-31](/pre-work/readme.md) | Prework Assignments |
 | :--- | :--- | :--- |
 
 | 1 | [Monday Feb 1](week1_detail.md) | Syllabus / Pecha kucha presentations |
