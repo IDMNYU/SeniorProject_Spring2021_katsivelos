@@ -1,4 +1,4 @@
-# Week 6 Detail October 12
+# Week 6 Detail March 8
 
 ## Deliverables \(DUE ON DATE LISTED\)
 

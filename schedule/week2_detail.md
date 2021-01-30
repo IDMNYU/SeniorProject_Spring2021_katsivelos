@@ -1,4 +1,4 @@
-# Week 2 Detail September 14
+# Week 2 Detail February 8
 
 ## Deliverables 
 

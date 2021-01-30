@@ -1,4 +1,4 @@
-# Week 9 Detail November 2
+# Week 9 Detail March 29
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -9,7 +9,5 @@
 
 ## Class
 
-* Class discussion of reading
-* Group critique: [Pro practices materials]Fix Link
-* Check-in with your accountability partner.
-
+* [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md)
+* **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me in Albert.**

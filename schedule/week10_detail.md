@@ -1,5 +1,4 @@
-# Week 10 Detail November 9
-
+# Week 10 Detail April 5
 ## Deliverables \(DUE ON DATE LISTED\)
 
 * Continue to [develop the project itself and iterate the research, design, resources, and milestones](../project_plan.md) of your project.

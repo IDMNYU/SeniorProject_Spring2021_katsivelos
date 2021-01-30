@@ -1,5 +1,4 @@
-# Week 1 Detail September 9
-
+# Week 1 Detail February 1
 ## Deliverables \(DUE ON DATE LISTED\)
 
 * Do [pre-work](../pre-work/) DUE on first day of class.

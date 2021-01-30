@@ -13,68 +13,63 @@ _Illustration by Jolby from gettoworkbook_
 | wk | date | class |
 | :--- | :--- | :--- |
 
+|0 | [Jan25-31]| Prework Assignments |
+| :--- | :--- | :--- |
 
-| 1 | [Wed Sept 9](week1_detail.md) | Syllabus / Pecha kucha presentations |
+| 1 | [Monday Feb 1](week1_detail.md) | Syllabus / Pecha kucha presentations |
 | :--- | :--- | :--- |
 
 
-| 2 | [Mon Sept 14](week2_detail.md) | Pecha kucha presentation revisions \(if applicable\) |
+| 2 | [Mon Feb 8](week2_detail.md) | Pecha kucha presentation revisions \(if applicable\) |
+| :--- | :--- | :--- |
+
+| 3 | [Thurs Feb 18](week3_detail.md) | Research and design |
 | :--- | :--- | :--- |
 
 
-Wed Sept 16 - Last day of Drop/Add
-
-| 3 | [Mon Sept 21](week3_detail.md) | Research and design |
+| 4 | [Mon Feb 22](week4_detail.md) | Research and design |
 | :--- | :--- | :--- |
 
 
-| 4 | [Mon Sept 28](week4_detail.md) | Research and design |
+| 5 | [Mon March 1](week5_detail.md) | Resources and milestones / research and design |
 | :--- | :--- | :--- |
 
 
-| 5 | [Mon Oct 5](week5_detail.md) | Resources and milestones / research and design |
+| 6 | [Mon March 8](week6_detail.md) | Project plan presentation |
 | :--- | :--- | :--- |
 
 
-| 6 | [Mon Oct 12](week6_detail.md) | Project plan presentation |
+| 7 | [Mon March 15](week7_detail.md) | 
 | :--- | :--- | :--- |
 
 
-| 7 | [Mon Oct 19](week7_detail.md) | **Midterm Demo and Critique**  |
+| 8 | [Mon March 22](week8_detail.md) | **Midterm Demo and Critique - Day 1**  | |
 | :--- | :--- | :--- |
 
 
-| 8 | [Mon Oct 26](week8_detail.md) | **Midterm Demo and Critique continued**  |
+| 9 | [Mon March 29](week9_detail.md) | **LAST Class Spring 2021 - Day 2** |
 | :--- | :--- | :--- |
 
 
-Tuesday November 3 - Last day to Withdraw
-
-| 9 | [Mon Nov 2](week9_detail.md) | Pro practices materials |
+| 10 |  [Mon April 5](week10_detail.md) | Pro practices materials \(if applicable\) |
 | :--- | :--- | :--- |
 
 
-| 10 |  [Mon Nov 9](week10_detail.md) | Pro practices materials \(if applicable\) |
+| 11 | [Mon April 12](week11_detail.md) | Project Demo of Gold Version \(if applicable\) |
 | :--- | :--- | :--- |
 
 
-| 11 | [Mon Nov 16](week11_detail.md) | Project Demo of Gold Version \(if applicable\) |
+| 12 | [Mon April 26](week12_detail.md) | Project Demo of Gold Version Revision \(if applicable\) |
 | :--- | :--- | :--- |
 
 
-| 12 | [Mon Nov 23](week12_detail.md) | Project Demo of Gold Version Revision \(if applicable\) |
+| 13 | [Mon May 3](week13_detail.md) | Project Demo of Gold Version Revision \(if applicable\) |
 | :--- | :--- | :--- |
 
 
-| 13 | [Mon Nov 30](week13_detail.md) | Project Demo of Gold Version Revision \(if applicable\) |
+| 14 | [Mon May 10](week14_detail.md) | **LAST Class Spring 2021** |
 | :--- | :--- | :--- |
 
 
-| 14 | [Mon Dec 7](week14_detail.md) | **LAST Class Spring 2021** |
-| :--- | :--- | :--- |
-
-
-| 15 | [Mon Dec 14](week15_detail.md) |  **Final One On One Review** |
-| :--- | :--- | :--- |
 
 
