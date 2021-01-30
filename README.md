@@ -1,5 +1,5 @@
 ---
-description: >-
+description: 
   Nick Katsivelos' section of Senior Project in Digital Media, Integrated
   Digital Media, NYU Tandon School of Engineering Spring 2021.
 ---
