@@ -1,6 +1,6 @@
 # Assignments:
 
-[Accountability Groups](accountability_partner.md) 
+[Accountability Groups](accountability_group.md) 
 
 [Kanban - Project Management](personal_kanban.md)
 
