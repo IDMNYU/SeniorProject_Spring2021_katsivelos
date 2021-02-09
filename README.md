@@ -115,7 +115,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability group](assignments/accountability_group.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 **Rules of the critique:**
 
