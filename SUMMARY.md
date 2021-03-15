@@ -41,4 +41,5 @@
   * [Midterm Self-Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
   * [Course Evaluation](end_of_semester_deliverables/course_evaluation.md)
 * [Recommended Resources](recommended_resources.md)
+* [Design & Production Workflow \(aka Pipeline\)](design-and-production-workflow-aka-pipeline.md)
 
