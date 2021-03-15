@@ -7,6 +7,5 @@
 
 ## Class
 
-* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) 
-* **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me in Albert.**
+* Class will be a drop on to discuss any questions with mid-term demos - a great place to show what you expect to demo and get feedback.
 
