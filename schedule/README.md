@@ -13,8 +13,10 @@ _Illustration by Jolby from gettoworkbook_
 | wk | date | class |
 | :--- | :--- | :--- |
 
-|0 | [Jan25-31](../pre-work/README.md) | Prework Assignments |
+
+| 0 | [Jan25-31](../pre-work/) | Prework Assignments |
 | :--- | :--- | :--- |
+
 
 | 1 | [Monday Feb 1](week1_detail.md) | Syllabus / Pecha kucha presentations |
 | :--- | :--- | :--- |
@@ -22,6 +24,7 @@ _Illustration by Jolby from gettoworkbook_
 
 | 2 | [Mon Feb 8](week2_detail.md) | Pecha kucha presentation revisions \(if applicable\) |
 | :--- | :--- | :--- |
+
 
 | 3 | [Thurs Feb 18](week3_detail.md) | Research and design |
 | :--- | :--- | :--- |
@@ -39,19 +42,19 @@ _Illustration by Jolby from gettoworkbook_
 | :--- | :--- | :--- |
 
 
-| 7 | [Mon March 15](week7_detail.md) | 
-| :--- | :--- | :--- |
+| 7 | [Mon March 15](week7_detail.md) |
+| :--- | :--- |
 
 
-| 8 | [Mon March 22](week8_detail.md) | **Midterm Demo and Critique - Day 1**  | |
-| :--- | :--- | :--- |
+| 8 | [Mon March 22](week8_detail.md) | **Pre Mid-Term Demo - Class will be a check in** |  |
+| :--- | :--- | :--- | :--- |
 
 
 | 9 | [Mon March 29](week9_detail.md) | **LAST Class Spring 2021 - Day 2** |
 | :--- | :--- | :--- |
 
 
-| 10 |  [Mon April 5](week10_detail.md) | Pro practices materials \(if applicable\) |
+| 10 | [Mon April 5](week10_detail.md) | Pro practices materials \(if applicable\) |
 | :--- | :--- | :--- |
 
 
@@ -69,7 +72,5 @@ _Illustration by Jolby from gettoworkbook_
 
 | 14 | [Mon May 10](week14_detail.md) | **LAST Class Spring 2021** |
 | :--- | :--- | :--- |
-
-
 
 
