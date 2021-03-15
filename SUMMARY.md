@@ -29,7 +29,7 @@
   * [Card Sorting](brainstorming/card_sorting.md)
   * [Storytelling Exercise](brainstorming/storytelling_exercise.md)
 * [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
-  * [Project Demos](critiques-demos-presentations-and-exhibition/project_demo.md)
+  * [Mid-Term Project Demos](critiques-demos-presentations-and-exhibition/project_demo.md)
   * [Project Plan Presentation](critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
   * [IDM Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * [End of Semester Deliverables](end_of_semester_deliverables/README.md)
