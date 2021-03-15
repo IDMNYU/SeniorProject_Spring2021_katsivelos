@@ -50,7 +50,7 @@ _Illustration by Jolby from gettoworkbook_
 | :--- | :--- | :--- | :--- |
 
 
-| 9 | [Mon March 29](week9_detail.md) | **LAST Class Spring 2021 - Day 2** |
+| 9 | [Mon March 29](week9_detail.md)  Mid-Term Demo Day! |  |
 | :--- | :--- | :--- |
 
 
