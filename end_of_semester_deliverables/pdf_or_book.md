@@ -16,7 +16,7 @@ Upload all drafts including the final version to a folder labeled _end of semest
 * If pdf, **post on slack** for everyone to see and download in the class
 * If physical book, post the link to the preview on blurb on slack AND bring the actual book. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
-This should be compiled using **Adobe InDesign**.
+This should be compiled using **a document formatting program - that is something that is used to layout documents as opposed to presentations - so InDesign, Word - you should format it to look nice and represent your aesthetic**. Do not use PowerPoint/Slides/or anything that is used to build presentations. 
 
 PDF Cover:
 
