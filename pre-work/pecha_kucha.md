@@ -14,7 +14,7 @@ This is your opportunity to start the semester off with momentum and make a real
 2. When it’s done, go to **File &gt; Publish to the web.**
 3. Copy the provided link and test it in your browser. 
 4. **In the URL**, change the value of the delayms variable to 20000 \(i.e. delayms=**20000**\). This will make the slides advance every 20s.
-5. Add this updated URL and your name to this [google doc](https://docs.google.com/document/d/1OcgV14fQ-5CF06pYlxactQf4kqYFKBWtfOupdwr-h5s/edit?usp=sharing) before the beginning of the first day of class.
+5. Add this updated URL and your name to class slack channel before the beginning of the first day of class.
 
 ## The content of your presentation should include the following:
 
