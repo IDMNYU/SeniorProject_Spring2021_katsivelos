@@ -1,6 +1,6 @@
 # Process Website
 
-Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1OcgV14fQ-5CF06pYlxactQf4kqYFKBWtfOupdwr-h5s/edit?usp=sharing).
+Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1OcgV14fQ-5CF06pYlxactQf4kqYFKBWtfOupdwr-h5s/edit?usp=sharing). INclude your information below the existing information in the same format.
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their "process" website.
 
